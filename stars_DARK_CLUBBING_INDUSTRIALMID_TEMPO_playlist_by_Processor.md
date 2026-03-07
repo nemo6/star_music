@@ -1,4 +1,4 @@
-<h3>DARK_CLUBBING_INDUSTRIALMID_TEMPO_playlist_by_Processor</h3>
+<h3>DARK_CLUBBING_INDUSTRIALMID_TEMPO</h3>
 
 https://open.spotify.com/playlist/2sgjvN28KYuXlvCoUiH2jd
 
