@@ -2,90 +2,90 @@
 
 https://open.spotify.com/playlist/2sgjvN28KYuXlvCoUiH2jd
 
-id | title | star
--|-|-
-01 | Finally [0uqVwckY9E0].mp4 | ⭐
-02 | SAPIOSEXUALITY [lUNWw56FOhk].mp4 | ⭐
-03 | Ready Or Not [NNnBij_rYnI].mp4 | 0
-04 | Dogs [6fz2VHs2k-w].mp4 | -1
-05 | Mystery Box [3q2oeTVxzh0].mp4 | 0
-06 | R U Alone？ [vj9Pa9QGvXk].mp4 | -1
-07 | Future Lost [WIQNwBdn_Co].mp4 | 0
-08 | Billy Butcher [OxZGSRg7WmM].mp4 | -1
-09 | Mob Safari [vUqJ5NP2cFA].mp4 | ⭐
-10 | Unfollow [FOPSNbfCfjE].mp4 | 0
-11 | Say Mas [-X5bOvrGdnA].mp4 | 0
-12 | Fingerprints [v5G8ovyNSJQ].mp4 | ⭐
-13 | A R E S [A0h9aoyxE4I].mp4 | -1
-14 | Jetset [nXoha4UzX9Q].mp4 | ⭐
-15 | Push Your Head [p4HYpq_lWN8].mp4 | -1
-16 | TING TING [9FtJuXgobso].mp4 | -1
-17 | Le Castle Vania - LED Spirals [Extended Full Length Version] from the movie John Wick (Official) [7Pv0u7uMn-g].mp4 | ⭐
-18 | The Whistleblowers Blues [SLsp9zUI9oI].mp4 | -1
+id | fulltitle | star | youtube_id | title
+-|-|-|-
+01 | Finally | ⭐ | [0uqVwckY9E0] |
+02 | SAPIOSEXUALITY | ⭐ | [lUNWw56FOhk] |
+03 | Ready Or Not | 0 | [NNnBij_rYnI] |
+04 | Dogs | -1 | [6fz2VHs2k-w] |
+05 | Mystery Box | 0 | [3q2oeTVxzh0] |
+06 | R U Alone？ | -1 | [vj9Pa9QGvXk] |
+07 | Future Lost | 0 | [WIQNwBdn_Co] |
+08 | Billy Butcher | -1 | [OxZGSRg7WmM] |
+09 | Mob Safari | ⭐ | [vUqJ5NP2cFA] |
+10 | Unfollow | 0 | [FOPSNbfCfjE] |
+11 | Say Mas | 0 | [-X5bOvrGdnA] |
+12 | Fingerprints | ⭐ | [v5G8ovyNSJQ] |
+13 | A R E S | -1 | [A0h9aoyxE4I] |
+14 | Jetset | ⭐ | [nXoha4UzX9Q] |
+15 | Push Your Head | -1 | [p4HYpq_lWN8] |
+16 | TING TING | -1 | [9FtJuXgobso] |
+17 | LED Spirals | ⭐ | [7Pv0u7uMn-g] | Le Castle Vania - LED Spirals [Extended Full Length Version] from the movie John Wick (Official)
+18 | The Whistleblowers Blues | -1 | [SLsp9zUI9oI] |
 19 | error: Freak Heist,Processor | 0
-20 | Le Castle Vania - John Wick Mode (John Wick Chapter 2 Club Scene Music) Official [4o2EU5VOzLQ].mp4 | ⭐
-21 | Funeral [dBZB8oZvmNo].mp4 | 0
-22 | error? : Carpenter Brut - Trilogy [DY1s9SmrQRE].mp4 | ?
-23 | The Intergalactic Bulls [D3Of9mjMlOo].mp4 | -1
-24 | Digitalism - Miami Showdown [Ndp3uB8Bu-E].mp4 | 0
-25 | Caught [n049AWuf1-8].mp4 | 0.5
-26 | Current state tags breakcore 90 vibe [bCWfhP2jdB8].mp4 | 0
-27 | Lizard (Morning Star) [1b_IrXoXlVI].mp4 | 0
-28 | The Horde [S2oA8imPhqY].mp4 | 0
-29 | Power load [paryDdFUSK0].mp4 | 0
-30 | Justice - Genesis - † (Official Audio) [VKzWLUQizz8].mp4 | 0
-31 | Odd Rebels [D1AAa4masUc].mp4 | 0
-32 | Apple [U72n4RSTqss].mp4 | 0
-33 | John Carpenter ＂Night＂ (Official Audio) [Lxbfshg2mcI].mp4 | 0
-34 | Natural Born Scum [soyuUCr7-P4].mp4 | 0
-35 | Arrival [vN9hVv9U-oU].mp4 | ⭐
-36 | Harvest [h0WMzMTFPn0].mp4 | 0
-37 | Extraction [T4RVpzucF_E].mp4 | 0
-38 | Strom [bO8NAmqogtI].mp4 | ⭐
-39 | Siege [brcwYoUoALY].mp4 | 0
-40 | Void Calm [pLwFXiMrZh4].mp4 | ⭐
-41 | Core Ignition [oHdnGIAPmQE].mp4 | 0
-42 | The black band [skQJVqjwVKg].mp4 | 0
-43 | Titanus [DCaJNPg6w2Q].mp4 | 0
-44 | End of Line (From ＂TRON： Legacy＂⧸Score) [NOMa56y_Was].mp4 | 0
-45 | HX ULTRA [D1u4vu1oMI4].mp4 | 0
-46 | Breach [oh1NBTkkX8s].mp4 | ⭐
-47 | Terminal Glow [LMgUbj3kEKk].mp4 | 0.5
-48 | New Hope [spJ7jhZPbvE].mp4 | 0
-49 | In The House, In A Heartbeat (Film Version) - 28 Days Later (2002) [bcKonAN2Olw].mp4 | 0
-50 | Vicktra [qggYNqUxMCM].mp4 | 0
-51 | Feed The Nag [_xkpjwrcKgc].mp4 | 0
-52 | Blindside [jrU3bhxdLg0].mp4 | 0
-53 | [Indie Dance] - PYLOT - A Race Against Time [Monstercat Release] [MSvVuGT1XrQ].mp4 | 0
-54 | My Theory [ONT7n15--Xc].mp4 | 0
-55 | The Cross [MCKmoE6Rzp8].mp4 | 0
-56 | HUNTER [YyhCITx4S34].mp4 | 0
-57 | Solo Place [TQ978a4FlEc].mp4 | 0
-58 | Mirrors Edge [358mJCm0-Ns].mp4 | ⭐
-59 | Cutie [RTIzFWU1Bw0].mp4 | 0
-60 | Black Diamond [qON0nHUf0Q4].mp4 | 0
-61 | Flashlight [Crd4Esymf08].mp4 | ⭐
-62 | Purple [S1_Hm9jkYwc].mp4 | 0
-63 | MOSH - MONARCHY [8rkqfJ6T-9k].mp4 | 0
-64 | DANCE WITH THE DEAD - Waves [_eHMCbR_s_Y].mp4 | 0
-65 | Decimation Directive [ZCXFLAApIH0].mp4 | 0
-66 | Helldiver [Wxr0LSJDnUA].mp4 | 0
-67 | Magic Sword - In The Face Of Evil [G02wKufX3nw].mp4 | 0
-68 | True 96 [L0xiZqXti6s].mp4 | -1
-69 | Royal Leash [n-rr1dfKCv0].mp4 | 0
-70 | Kavinsky - First Blood (Official Audio) [O3QcsBFH6zY].mp4 | 0
-71 | Scream [0hCq7JQKToI].mp4 | 0
-72 | HEALTH x PERTURBATOR ：： BODY⧸PRISON [3AFhE8_tyuw].mp4 | 0
-73 | The Tailor by Processor [C3V3u4xBnKc].mp4 | 0
-74 | SIERRA VEINS - GONE [udO8N4Mgrdo].mp4 | 0
-75 | InsecT By Processor & Keap The Weak [FQSFyAA48E0].mp4 | 0
-76 | Hole Digger [Jmb-qqXKJ84].mp4 | 0
-77 | White Light [QAmvQeyTAOI].mp4 | 0
-78 | Homerun [BS28G7pJzj0].mp4 | 0
-79 | Haunt [QdRwuOBZRMc].mp4 | 0
-80 | AKUMA [rS_937OBONY].mp4 | 0
-81 | Red Velvet Ant [hdkbl90ghAk].mp4 | 0
-82 | Trouble P II [KPzpMmUMuV0].mp4 | 0
-83 | Lizard [0hNmxUIKND0].mp4 | ⭐
-84 | Kidding by Processor [H8xoPGVN-lg].mp4 | 0
-85 | Fever (Processor Remix) [u4Wb9YjWO5g].mp4 | 0
+20 | John Wick Mode | ⭐ | [4o2EU5VOzLQ] | Le Castle Vania - John Wick Mode (John Wick Chapter 2 Club Scene Music) Official
+21 | Funeral | 0 | [dBZB8oZvmNo] |
+22 | Carpenter Brut - Trilogy | ? | [DY1s9SmrQRE] |
+23 | The Intergalactic Bulls | -1 | [D3Of9mjMlOo] |
+24 | Miami Showdown | 0 | [Ndp3uB8Bu-E] | Digitalism - Miami Showdown
+25 | Caught | 0.5 | [n049AWuf1-8] |
+26 | Current state tags breakcore 90 vibe | 0 | [bCWfhP2jdB8] |
+27 | Lizard (Morning Star) | 0 | [1b_IrXoXlVI] |
+28 | The Horde | 0 | [S2oA8imPhqY] |
+29 | Power load | 0 | [paryDdFUSK0] |
+30 | Genesis | 0 | [VKzWLUQizz8] | Justice - Genesis - † (Official Audio)
+31 | Odd Rebels | 0 | [D1AAa4masUc] |
+32 | Apple | 0 | [U72n4RSTqss] |
+33 | Night | 0 | [Lxbfshg2mcI] | John Carpenter ＂Night＂ (Official Audio)
+34 | Natural Born Scum | 0 | [soyuUCr7-P4] |
+35 | Arrival | ⭐ | [vN9hVv9U-oU] |
+36 | Harvest | 0 | [h0WMzMTFPn0] |
+37 | Extraction | 0 | [T4RVpzucF_E] |
+38 | Strom | ⭐ | [bO8NAmqogtI] |
+39 | Siege | 0 | [brcwYoUoALY] |
+40 | Void Calm | ⭐ | [pLwFXiMrZh4] |
+41 | Core Ignition | 0 | [oHdnGIAPmQE] |
+42 | The black band | 0 | [skQJVqjwVKg] |
+43 | Titanus | 0 | [DCaJNPg6w2Q] |
+44 | End of Line | 0 | [NOMa56y_Was] | End of Line (From ＂TRON： Legacy＂⧸Score)
+45 | HX ULTRA | 0 | [D1u4vu1oMI4] |
+46 | Breach | ⭐ | [oh1NBTkkX8s] |
+47 | Terminal Glow | 0.5 | [LMgUbj3kEKk] |
+48 | New Hope | 0 | [spJ7jhZPbvE] |
+49 | In the House - In a Heartbeat | 0 | [bcKonAN2Olw] | In The House, In A Heartbeat (Film Version) - 28 Days Later (2002)
+50 | Vicktra | 0 | [qggYNqUxMCM] |
+51 | Feed The Nag | 0 | [_xkpjwrcKgc] |
+52 | Blindside | 0 | [jrU3bhxdLg0] |
+53 | A Race Against Time | 0 | [MSvVuGT1XrQ] | [Indie Dance] - PYLOT - A Race Against Time [Monstercat Release]
+54 | My Theory | 0 | [ONT7n15--Xc] |
+55 | The Cross | 0 | [MCKmoE6Rzp8] |
+56 | HUNTER | 0 | [YyhCITx4S34] |
+57 | Solo Place | 0 | [TQ978a4FlEc] |
+58 | Mirrors Edge | ⭐ | [358mJCm0-Ns] |
+59 | Cutie | 0 | [RTIzFWU1Bw0] |
+60 | Black Diamond | 0 | [qON0nHUf0Q4] |
+61 | Flashlight | ⭐ | [Crd4Esymf08] |
+62 | Purple | 0 | [S1_Hm9jkYwc] |
+63 | McQueen | 0 | [8rkqfJ6T-9k] | MOSH - MONARCHY
+64 | Waves | 0 | [_eHMCbR_s_Y] | DANCE WITH THE DEAD - Waves
+65 | Decimation Directive | 0 | [ZCXFLAApIH0] |
+66 | Helldiver | 0 | [Wxr0LSJDnUA] |
+67 | In The Face Of Evil | 0 | [G02wKufX3nw] | Magic Sword - In The Face Of Evil
+68 | True 96 | -1 | [L0xiZqXti6s] |
+69 | Royal Leash | 0 | [n-rr1dfKCv0] |
+70 | First Blood | 0 | [O3QcsBFH6zY] | Kavinsky - First Blood (Official Audio)
+71 | Scream | 0 | [0hCq7JQKToI] |
+72 | BODY/PRISON | 0 | [3AFhE8_tyuw] | HEALTH x PERTURBATOR ：： BODY⧸PRISON
+73 | The Tailor | 0 | [C3V3u4xBnKc] | The Tailor by Processor
+74 | Unbroken | 0 | [udO8N4Mgrdo] | SIERRA VEINS - GONE
+75 | InsecT | 0 | [FQSFyAA48E0] | InsecT By Processor & Keap The Weak
+76 | Hole Digger | 0 | [Jmb-qqXKJ84] |
+77 | Goth | 0 | [QAmvQeyTAOI] | White Light
+78 | Homerun | 0 | [BS28G7pJzj0] |
+79 | Haunt | 0 | [QdRwuOBZRMc] |
+80 | AKUMA | 0 | [rS_937OBONY] |
+81 | Red Velvet Ant | 0 | [hdkbl90ghAk] |
+82 | Trouble P II | 0 | [KPzpMmUMuV0] |
+83 | Lizard | ⭐ | [0hNmxUIKND0] |
+84 | Kidding | 0 | [H8xoPGVN-lg] | Kidding by Processor
+85 | Fever - Processor Remix | 0 | [u4Wb9YjWO5g] |
