@@ -22,7 +22,7 @@ id | fulltitle | star | youtube_id | title
 16 | TING TING | -1 | [9FtJuXgobso] | &nbsp;
 17 | LED Spirals | ⭐ | [7Pv0u7uMn-g] | Le Castle Vania - LED Spirals [Extended Full Length Version] from the movie John Wick (Official)
 18 | The Whistleblowers Blues | -1 | [SLsp9zUI9oI] | &nbsp;
-19 | error: Freak Heist,Processor | 0
+19 | Freak Heist | ? | ? | Freak Heist - Processor
 20 | John Wick Mode | ⭐ | [4o2EU5VOzLQ] | Le Castle Vania - John Wick Mode (John Wick Chapter 2 Club Scene Music) Official
 21 | Funeral | 0 | [dBZB8oZvmNo] | &nbsp;
 22 | Carpenter Brut - Trilogy | ? | [DY1s9SmrQRE] | &nbsp;
