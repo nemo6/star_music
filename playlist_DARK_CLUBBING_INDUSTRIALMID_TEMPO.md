@@ -54,7 +54,7 @@ id|data|album|author
 18|Jetset||Little Chili, Processor
 &nbsp;|https://open.spotify.com/intl-fr/track/2HERfkt3g29HC8gTD3z4nt
 &nbsp;|
-19|Iron Wrought,16Nomic,Little Chili||Processor
+19|Iron Wrought||16Nomic,Little Chili,Processor
 &nbsp;|https://open.spotify.com/intl-fr/track/770l6v3qy8et5cmkDC0uOY
 &nbsp;|
 20|Push Your Head||Processor
