@@ -3,8 +3,18 @@
 https://open.spotify.com/playlist/2sgjvN28KYuXlvCoUiH2jd
 
 <table>
+  
+<thead>
+  <tr>
+    <th>fulltitle</th>
+    <th>star</th>
+    <th>youtube_id</th>
+    <th>title</th>
+  </tr>
+</thead>
 
-<tr><th>fulltitle</th><th>star</th><th>youtube_id</th><th>title</th></tr>
+<tbody>
+
 <tr><td>Finally</td><td>⭐</td><td>[0uqVwckY9E0]</td><td>&nbsp;</td></tr>
 <tr><td>SAPIOSEXUALITY</td><td>⭐</td><td>[lUNWw56FOhk]</td><td>&nbsp;</td></tr>
 <tr><td>Ready Or Not</td><td>0</td><td>[NNnBij_rYnI]</td><td>&nbsp;</td></tr>
@@ -279,5 +289,7 @@ https://open.spotify.com/playlist/2sgjvN28KYuXlvCoUiH2jd
 <tr><td colspan=4 >https://open.spotify.com/intl-fr/track/16kYsO2CqH5xeuH7mG0Jdj</td><td>&nbsp;</td></tr>
 <tr><td>Your Madness</td><td>Processor</td><td>Your Madness</td><td>&nbsp;</td></tr>
 <tr><td colspan=4 >https://open.spotify.com/intl-fr/track/3DY2Dj1puBwIw3EHLpS5gO</td><td>&nbsp;</td></tr>
+
+</tbody>
 
 </table>
